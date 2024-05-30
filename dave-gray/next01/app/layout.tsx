@@ -13,6 +13,7 @@ export default function RootLayout({
       */}
       <head />
       <body>
+        <nav><h1>My Navbar</h1></nav>
         {children}
         </body>
     </html>
