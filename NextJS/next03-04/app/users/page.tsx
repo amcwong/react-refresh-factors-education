@@ -11,8 +11,6 @@ export default async function UsersPage() {
 
   const users = await usersData;
 
-  //console.log('Hello') // Did you find where this appears?
-
   const content = (
     <section>
       <h2>
